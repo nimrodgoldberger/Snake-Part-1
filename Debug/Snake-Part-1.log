@@ -1,0 +1,5 @@
+﻿  Snake-1-01.c
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(125): warning C4047: '=': 'int' differs in levels of indirection from 'int (__cdecl *)()'
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(135): warning C4047: '=': 'int' differs in levels of indirection from 'int (__cdecl *)()'
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(218): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake-Part-1.vcxproj -> C:\Users\User\source\repos\Snake-Part-1\Debug\Snake-Part-1.exe

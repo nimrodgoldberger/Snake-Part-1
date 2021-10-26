@@ -1,0 +1,9 @@
+﻿  Snake-1-01.c
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(42): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(48): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(52): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(52): warning C4024: 'isquitting': different types for formal and actual parameter 2
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(165): warning C4101: 'choice': unreferenced local variable
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(231): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\user\source\repos\snake-part-1\snake-part-1\snake-1-01.c(231): warning C4024: 'rungame': different types for formal and actual parameter 1
+  Snake-Part-1.vcxproj -> C:\Users\User\source\repos\Snake-Part-1\x64\Debug\Snake-Part-1.exe
